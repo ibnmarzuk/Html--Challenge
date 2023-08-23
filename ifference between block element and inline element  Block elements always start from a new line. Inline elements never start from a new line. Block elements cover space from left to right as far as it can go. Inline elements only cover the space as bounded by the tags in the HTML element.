@@ -1,0 +1,20 @@
+#Difference between block element and inline element
+
+Block elements always start from a new line. 
+Inline elements never start from a new line. 
+Block elements cover space from left to right as far as it can go. Inline elements only cover the space as bounded by the tags in the HTML element
+#Examples of block level elements:
+
+<p>
+<ol>, <ul>, <dl>
+All headings
+<article>, <section>, <div>
+inline
+<p><em>An emphasized paragraph.</em></p>
+<p><em>Another emphasized paragraph.</em></p>
+#Examples of inline level elements:
+<a>
+<strong>, <em>, <b>, <i>, <q>, <mark>
+<span>
+Demo
+ ch
